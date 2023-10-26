@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "g": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "request-ip": "^3.3.0",
+    "rotating-file-stream": "^3.0.4",
+    "sequelize": "^6.25.8",
+    "sequelize-cli": "^6.5.2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "development": {
+    "api": "https://dummyjson.com"
+ 
+  }, 
+  "production": {
+    "api": "https://dummyjson.com"
+  }
+}
